@@ -33,6 +33,20 @@
 
 ---
 
+## 🎬 Video Demonstrations
+
+### Quick Start Guide
+
+````carousel
+![Running the KLAM project - demonstrates launching the application and basic usage](C:\Users\Mos\.gemini\antigravity\brain\d2506318-256e-46a9-a79c-70b45eb35e28\demo_run_project.mp4)
+<!-- slide -->
+![Adding files to KLAM - shows how to add and configure files in the project](C:\Users\Mos\.gemini\antigravity\brain\d2506318-256e-46a9-a79c-70b45eb35e28\demo_add_files.mp4)
+````
+
+> 💡 **Tip**: Watch these videos to quickly understand how to set up and use KLAM!
+
+---
+
 ## 🚀 Installation
 
 ### Prerequisites
